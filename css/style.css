@@ -87,7 +87,7 @@ a{
 
 body {
     min-height: 100vh;
-    background-image: url(/img/imresizer-resize-background.jpg);
+    background-image: url(../img/imresizer-resize-background.jpg);
     background-size: cover;          /* l'image remplit tout l'écran */
     background-position: center;     /* centrée */
     background-repeat: no-repeat;    /* plus de répétition */
